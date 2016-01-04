@@ -1,10 +1,7 @@
 .indicateur li{
     background:#bfd70e;
     border-radius:50%;
-    width:160px;
-    height:160px;
+    height:100px;
+    width:100px;
     border:2px solid #679403;
-}
-.rouge{
-    background:red;
 }

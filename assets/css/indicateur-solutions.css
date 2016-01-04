@@ -1,0 +1,6 @@
+.indicateur li{
+    display:inline-block;
+}
+.indicateur li:nth-child(4), .indicateur li:nth-child(7), .indicateur li:nth-child(12){
+    background: red;
+}
