@@ -1,0 +1,10 @@
+.master div{
+    display: block;
+    float: left;
+    width: 50%;
+}
+.master p img{
+    display: block;
+    float: left;
+    width: 50%;
+}
