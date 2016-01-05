@@ -1,10 +1,22 @@
 .master div{
     display: block;
     float: left;
-    width: 50%;
+    width: 45%;
+    padding: 1%;
+    margin: 1%;
+    background: #98B98B;
+    border: 1px solid grey;
 }
-.master p img{
+.master img{
     display: block;
     float: left;
     width: 50%;
+    margin: 0 10px 10px 0;
+}
+.master h3{
+    color: #FFF;
+    text-transform: uppercase;
+}
+.master p{
+    color: #333;
 }
