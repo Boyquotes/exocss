@@ -7,6 +7,15 @@
 .exo ul li{
   margin: 1%;
 }
+.tableau_contact li{
+  list-style-type: none;
+}
+.tableau_contact span{
+  width: 200px;
+  display: inline-block;
+  padding: 10px;
+  border: 1px solid black;
+}
 .damier li{
   width: 50px;
   height: 50px;
