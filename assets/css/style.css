@@ -1,3 +1,12 @@
+.exo img{
+  width: 500px;
+}
+.exo p{
+  margin: 1%;
+}
+.exo ul li{
+  margin: 1%;
+}
 .damier li{
   width: 50px;
   height: 50px;
